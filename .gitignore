@@ -1,1 +1,6 @@
 stepikvenv
+.idea/
+testvenv/
+__pycache__/
+.DS_Store
+.editorconfig
